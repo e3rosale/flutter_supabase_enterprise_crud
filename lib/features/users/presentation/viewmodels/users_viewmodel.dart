@@ -4,7 +4,7 @@ import '../../../../core/utils/result.dart';
 import '../../domain/entities/user_entity.dart';
 import '../../domain/usecases/create_user.dart';
 import '../../domain/usecases/delete_user.dart';
-// import '../../domain/usecases/get_users.dart';
+import '../../domain/usecases/get_users.dart';
 import '../../domain/usecases/update_user.dart';
 
 class UsersViewModel extends ChangeNotifier {
