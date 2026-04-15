@@ -1,6 +1,6 @@
 import 'package:supabase_flutter/supabase_flutter.dart';
 
-// import '../../../../core/error/app_exception.dart';
+import '../../../../core/error/app_exception.dart';
 import '../models/user_model.dart';
 
 class UserRemoteDataSource {
